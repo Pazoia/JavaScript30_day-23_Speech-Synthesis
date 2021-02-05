@@ -8,5 +8,5 @@ in the text box.
 
 Features:  
 * Multiple voices to choose from.  
-* Speech rate of voice can be manipulated.  
-* Speech pitch of voice can also be manipulated.
+* Speech rate can be manipulated.  
+* Speech pitch can also be manipulated.
